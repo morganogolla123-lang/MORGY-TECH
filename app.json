@@ -1,0 +1,22 @@
+{
+  "name": "Black Eagle WhatsApp Bot",
+  "description": "A multi‑device WhatsApp bot using Baileys",
+  "repository": "https://github.com/yourusername/black-eagle",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["whatsapp", "bot", "baileys", "nodejs"],
+  "env": {
+    "PREFIX": {
+      "description": "Command prefix",
+      "value": "."
+    },
+    "BOT_NAME": {
+      "description": "Bot name displayed in help",
+      "value": "Black Eagle"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
