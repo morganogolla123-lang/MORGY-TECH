@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=100&lines=BLACK+EAGLE+%F0%9F%A6%85;Multi-Device+%F0%9F%93%B1;24%2F7+Online+%E2%9A%A1;Open+Source+%F0%9F%94%93)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=%E2%9D%A4%EF%B8%8F+Brought+to+you+by+Morgy+%F0%9F%A6%85;%F0%9F%92%AC+Join+the+WhatsApp+hub+and+tell+us+what+you+would+like...;%F0%9F%91%82+Hear+what+your+friends+are+saying...;%F0%9F%94%9C+Powered+by+Savage+Tech;%F0%9F%9A%80+More+features+coming+soon...;%F0%9F%94%94+Stay+tuned+for+updates...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFFF&center=true&vCenter=true&width=1100&height=80&lines=%E2%9D%A4%EF%B8%8F+Brought+to+you+by+Morgy+%F0%9F%A6%85;%F0%9F%92%AC+Join+the+WhatsApp+hub+and+tell+us+what+you+would+like...;%F0%9F%91%82+Hear+what+your+friends+are+saying...;%F0%9F%94%9C+Powered+by+Savage+Tech;%F0%9F%9A%80+More+features+coming+soon...;%F0%9F%94%94+Stay+tuned+for+updates...)](https://git.io/typing-svg)
 
 ---
 
