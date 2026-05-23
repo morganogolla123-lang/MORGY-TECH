@@ -4,18 +4,23 @@
 
 ## 🦅 BLACK EAGLE WhatsApp Bot
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=700&height=100&lines=BLACK+EAGLE+%F0%9F%A6%85;Savage-Tech+%E2%9A%A1;+WhatsApp+Bot+%F0%9F%A4%96;+Multi-Device+%F0%9F%93%B1;+24%2F7+Online+%E2%9A%A1;+Open+Source+%F0%9F%94%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=100&lines=BLACK+EAGLE+%F0%9F%A6%85;Multi-Device+%F0%9F%93%B1;24%2F7+Online+%E2%9A%A1;Open+Source+%F0%9F%94%93)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=000000&center=true&vCenter=true&width=900&height=50&lines=+Crafted+with+%E2%9D%A4%EF%B8%8F+by+Morgy+%F0%9F%A6%85;+Join+the+WhatsApp+hub+and+tell+us+what+you+would+like...;+Hear+what+your+friends+are+saying...;+More+features+coming+soon...;+Stay+tuned+for+updates...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FFFF&center=true&vCenter=true&width=900&height=50&lines=%E2%9D%A4%EF%B8%8F+Brought+to+you+by+Morgy+%F0%9F%A6%85;%F0%9F%92%AC+Join+the+WhatsApp+hub+and+tell+us+what+you+would+like...;%F0%9F%91%82+Hear+what+your+friends+are+saying...;%F0%9F%94%9C+Powered+by+Savage+Tech;%F0%9F%9A%80+More+features+coming+soon...;%F0%9F%94%94+Stay+tuned+for+updates...)](https://git.io/typing-svg)
 
 ---
 
 ### 🔗 **Join the Community**
 
-| Platform | Link |
-|----------|------|
-| 📢 **WhatsApp Channel** | [Join Channel](https://whatsapp.com/channel/0029VbCuEBJEAKWOWVH3G21e) |
-| 💬 **Support Group** | [Join Group](https://chat.whatsapp.com/LqkRYXP52tR3CKR8rkKNoh) |
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VbCuEBJEAKWOWVH3G21e">
+    <img src="https://img.shields.io/badge/Join_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=0A8C39" alt="WhatsApp Channel"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://chat.whatsapp.com/LqkRYXP52tR3CKR8rkKNoh">
+    <img src="https://img.shields.io/badge/Join_Support_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=075E54" alt="Support Group"/>
+  </a>
+</div>
 
 ---
 
